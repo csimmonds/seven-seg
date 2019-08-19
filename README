@@ -1,0 +1,6 @@
+
+Get source code
+
+wget http://dino.ciuffetti.info/wp-content/uploads/2014/04/7seg_bp_ada.c
+wget http://dino.ciuffetti.info/wp-content/uploads/2014/04/7seg_bp_ada.h
+wget http://dino.ciuffetti.info/wp-content/uploads/2014/04/7seg_bp_ada_test.c
